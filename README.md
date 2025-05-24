@@ -65,25 +65,18 @@ Ensure that you have created "images" folder and add at least 5 images in the di
 ## 🧪 Preview
 
 ```bash
-┌──────────────────────────────────────┐
-  Arch Linux
-  AMD Ryzen 5 5600H
-  16 GB RAM
-  Linux 6.x Kernel
-  5h 42m uptime
-  zsh
-  GNOME
-  Hyprland
-嗀  Catppuccin
-  Papirus
-  Kitty
-  JetBrains Mono
-  NVIDIA GTX 1650
-  512GB SSD
-  Font: JetBrains Mono
-  Now Playing: "Aimer - Brave Shine"
-  Local IP: 192.168.1.10
-└─────────────────────         ┘
+                 zerotwo@zerotwo-rogstrixg531gd 
+                 ┌──────────────────────────────────────┐ 
+                   : ZeroTwo Linux x86_64 
+                   : Intel i5-9300H (8) @ 4.100GHz 
+                   : 2437MiB / 7787MiB 
+                   : 6.14.7-arch2-1 
+                   : 3 hours, 3 mins 
+                   : zsh 5.9 
+                   : Hyprland 
+                   : Tela-circle-pink [GTK2/3] 
+                   : kitty 
+                 └─────────────────────         ┘ 
 ```
 
 *(Note: Icons and output vary based on your actual system)*
