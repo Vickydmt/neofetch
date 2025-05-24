@@ -33,13 +33,13 @@ Ensure you have at least 5 images in the directory to enable dynamic rotation.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/neofetch-config.git
+   git clone https://github.com/Vickydmt/neofetch.git
 ````
 
 2. Copy the config:
 
    ```bash
-   cp neofetch-config/config.conf ~/.config/neofetch/config.conf
+   cp neofetch/config.conf ~/.config/neofetch/config.conf
    ```
 
 3. Add some images to:
