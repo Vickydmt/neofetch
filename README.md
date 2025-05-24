@@ -25,7 +25,7 @@ A customized Neofetch config file that gives your terminal a cool aesthetic touc
 - Supports: `.jpg`, `.png`, `.jpeg`, `.gif`, `.bmp`
 - Cache file to track recently used images: `~/.config/neofetch/last_images.txt`
 
-Ensure you have at least 5 images in the directory to enable dynamic rotation.
+Ensure that you have created "images" folder and add at least 5 images in the directory to enable dynamic rotation.
 
 ---
 
