@@ -93,4 +93,4 @@ Ensure you have at least 5 images in the directory to enable dynamic rotation.
 ## 🧠 Credits
 
 * Based on [Neofetch](https://github.com/dylanaraps/neofetch) by Dylan Araps.
-* Custom config by \[Your Name or Username]
+* Custom config by vickydmt
